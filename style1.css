@@ -1,0 +1,35 @@
+.header-area{
+    background-color: white;
+    height: 100px;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    right: 0%;
+    bottom: 0%;
+    width: 100%;
+
+
+
+}.logo{
+    margin-top: 25px;
+}
+.list-item {
+    text-decoration: none;
+    list-style: none;
+    display: inline-block;
+    margin: 10px 20px;
+
+}
+.list-item a{
+    text-decoration: none;
+
+}
+.main-nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.list-item
+:hover{
+    color: red;
+}
